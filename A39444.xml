@@ -1,0 +1,342 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An abstract of all the statute-laws of this kingdom now in force, made against Jesuits, seminary priests, and popish recusants</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39444</idno>
+            <idno type="STC">Wing E863</idno>
+            <idno type="STC">ESTC R7779</idno>
+            <idno type="EEBO-CITATION">12990729</idno>
+            <idno type="OCLC">ocm 12990729</idno>
+            <idno type="VID">96325</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39444)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96325)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 737:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An abstract of all the statute-laws of this kingdom now in force, made against Jesuits, seminary priests, and popish recusants</title>
+               </titleStmt>
+               <extent>[2], 21 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Starkey ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Marginal notes.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesuits --  England --  Legal status, laws, etc.</term>
+               <term>Catholics --  England --  Legal status, laws, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96325:1"/>
+            <pb facs="tcp:96325:1" rendition="simple:additions"/>
+            <p>AN ABSTRACT OF ALL THE STATUTE-LAWS OF THIS KINGDOM Now in Force, Made againſt JESUITES, Seminary Prieſts, AND Popiſh Recuſants.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Starkey</hi> at the <hi>Mitre</hi> in <hi>Fleetſtreet,</hi> M DC LXXV.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:96325:2"/>
+            <pb n="1" facs="tcp:96325:2"/>
+            <div type="part">
+               <head>An Abſtract of all the Statute-Laws made againſt all <hi>Jeſuits, Seminary Prieſts,</hi> and <hi>Popiſh Recuſants.</hi>
+               </head>
+               <p n="1">1.<note place="margin">
+                     <hi>1 Eliz. cap. 1.</hi> no Forre ig Potentate not to exerciſe power in the Queens Do<g ref="char:EOLhyphen"/>minions.</note> 
+                  <seg rend="decorInit">B</seg>Y the Statute of 1 <hi>Eliz. cap.</hi> 1. No Forreign Potentate, or other Perſon ſhall exerciſe any Eccleſiaſtical pow<g ref="char:EOLhyphen"/>er in the Queens Dominions, but She and her Succeſſors may by Let<g ref="char:EOLhyphen"/>ters Patents Authorize any Subject born to Exerciſe the ſame.</p>
+               <p n="2">2.<note place="margin">Officers Tem<g ref="char:EOLhyphen"/>poral and Ec<g ref="char:EOLhyphen"/>cleſiaſtical.</note> For the better obſervance of this Act, <hi>Every Eccleſiaſtical and Temporal OFFICER, and ſuch as take Degree in the <g ref="char:V">Ʋ</g>niverſity, and all the Queens Ser<g ref="char:EOLhyphen"/>vants are enjoyned to take the Oath of Supremacy,</hi> reci<g ref="char:EOLhyphen"/>ted, <hi>in haec Verba,</hi> in this Statute, to which becauſe it is long, you are referred.</p>
+               <p n="3">3.<note place="margin">Refuſing the Oath.</note> He that refuſeth this Oath, if he be in any Of<g ref="char:EOLhyphen"/>fice, ſhall Forfeit ſuch Spiritual or Temporal Office or Promotion during his life; or if he be to be admit<g ref="char:EOLhyphen"/>ted to any ſuch Office, he ſhall take the aforeſaid Oath before he be admitted, and if he refuſe it, he ſhall be adjudged uncapable of it.</p>
+               <p n="4">4.<note place="margin">Oath.</note> If any have a Temporal Office of Inheritance, and at firſt refuſe this Oath, but afterwards ſhall take it, he ſhall be reſtored.</p>
+               <p n="5">5.<note place="margin">Penalty of maintaining any Foreign Potent<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>te pow<g ref="char:EOLhyphen"/>er, <hi>&amp;c.</hi>
+                  </note> None ſhall maintain the Juriſdiction of any Foreign Prelate or Potentate in the Queens Domini<g ref="char:EOLhyphen"/>ons,
+<pb n="2" facs="tcp:96325:3"/>upon pain of Forfeiting all his Goods and Chat<g ref="char:EOLhyphen"/>tels, and if he be not worth twenty pounds at the time of his Conviction, he ſhall Forfeit all he hath, and ſuffer a years Impriſonment without Bayl; and for the ſecond Offence,<note place="margin">Premunire is to be put out of the Kings pro<g ref="char:EOLhyphen"/>tection, and to forfeit all his Goods &amp; Chat<g ref="char:EOLhyphen"/>tels, and all Lands in Fee, <hi>Co. 1. Inſtit. f 219. b. 130. a.</hi> Conviction.</note> incur a <hi>Praemunire;</hi> and for the third Offence be guilty of High Treaſon, which Offence muſt be proſecuted within one year after it is committed; but if the Offence be by Preaching, Teaching, or Words only, proſecution by Indictment muſt be within ſix moneths, elſe the Offender to be ſet at liberty.</p>
+               <p n="6">6. A Clergy-man Beneficed, upon the firſt Convi<g ref="char:EOLhyphen"/>ction for ſuch Offence, ſhall looſe his Spiritual Pro<g ref="char:EOLhyphen"/>motion.</p>
+               <p n="7">7.<note place="margin">Peer.</note> A Peer of the Realm guilty of ſuch Offence, is to be tryed by his Peers.</p>
+               <p n="8">8.<note place="margin">Witneſses,</note> No perſons to be Indicted or Arraigned for the aforeſaid Offences, but by two or more ſufficient Witneſſes produced <hi>Viva voce;</hi> and none ſhall be queſtioned for Relieving, Aiding, or Comforting any ſuch Offender as is before mentioned, unleſs it be pro<g ref="char:EOLhyphen"/>ved by two Witneſſes at leaſt, that at the time of ſuch Relief, Aid, <hi>&amp;c.</hi> he had notice of the Offence com<g ref="char:EOLhyphen"/>mitted.</p>
+            </div>
+            <div type="part">
+               <p n="1">1.<note place="margin">5 <hi>Eliz</hi> cap. 1,</note> By this Statute of 5 <hi>Eliz.</hi> None ſhall maintain the Juriſdiction of the Biſhop or See of <hi>Rome,</hi> within any of the Queens Dominions, upon pain that they and their Acceſſaries ſhall incur a <hi>Praemunire.</hi>
+               </p>
+               <p n="2">2. Juſtices of Aſſize, Juſtices of the Peace in Seſſi<g ref="char:EOLhyphen"/>ons, or any two of them (whereof one of the <hi>Quorum</hi>) have power to hear and determine this Offence,<note place="margin">Who may have Oyer and Ter<g ref="char:EOLhyphen"/>miner of theſe Offences in Quarter Seſſi<g ref="char:EOLhyphen"/>ous, or open Seſſions.</note> and to certifie the preſentments into the Kings Bench, within a time limited in the Statute on pain of 100 <hi>l.</hi> and Juſtices of Aſſize have power as well upon ſuch Certificate, as alſo before themſelves to hear and de<g ref="char:EOLhyphen"/>termine ſuch Offences.</p>
+               <pb n="3" facs="tcp:96325:3"/>
+               <p n="3">3.<note place="margin">Perſons that muſt take the Oath of Supre<g ref="char:EOLhyphen"/>macy.</note> All Perſons appointed by the Statute of 1 <hi>Eliz.</hi> cap. 1. to take the Oath of Supremacy, and all other Perſons taking Orders, preferred to any Degree in the Univerſities, all School-maſters publick and pri<g ref="char:EOLhyphen"/>vate; all that take Degrees of Learning in the Laws, in the Inns of Court, or in Chancery; all Attorneys, Prothonotories, Philizers, Eſcheators, <hi>&amp;c.</hi> All Perſons admitted to any Miniſtry or Office belonging to the Common Law, or other Law or Laws: and all Offi<g ref="char:EOLhyphen"/>cers and Miniſters of every Court ſhall take the ſaid Oath before their admittance to the Exerciſe of any ſuch Offices or Profeſſion.</p>
+               <p n="4">4.<note place="margin">Praemunire,</note> He that is thus compettable to take the ſaid Oath, if he refuſe it, incurs a <hi>Praemunire,</hi> if his Default be preſented, and he Indicted within a year after the Default.</p>
+               <p n="5">5.<note place="margin">Who have pow<g ref="char:EOLhyphen"/>er to give the Oath,</note> Arch-Biſhops and Biſhops have power in their proper Dioceſſes to Miniſter this Oath; and the Lord Chancellor or Keeper (without further Warrant) may grant Commiſſion to tender it.</p>
+               <p n="6">6.<note place="margin">Certificate of Refuſal,</note> All Perſons impowred to Tender this Oath, are to certifie the Refuſals of thoſe Recuſants that will not Take it under their Hands and Seals into the Kings Bench, within a limited time in the Statute, on pain of 100 <hi>l. See the Statute at large, as to the time.</hi>
+               </p>
+               <p n="7">7.<note place="margin">Second offence</note> Thoſe that refuſe this Oath upon ſecond Ten<g ref="char:EOLhyphen"/>der, or were formerly Convicted of maintaining the Juriſdiction of the Pope or See of <hi>Rome,</hi> and do com<g ref="char:EOLhyphen"/>mit the like offence the ſecond time, both they and their Acceſſaries ſhall ſuffer as in caſe of High Trea<g ref="char:EOLhyphen"/>ſon, except in caſe of Corruption of Blood, Diſinheri<g ref="char:EOLhyphen"/>ſon of Heirs, Forfeiting of Dower, or prejudice to others beſide the Offender, <hi>&amp;c.</hi> but none ſhall be puniſhed as Acceſſary, for giving Alms without fraud to the Offender.</p>
+               <pb n="4" facs="tcp:96325:4"/>
+               <p n="8">8.<note place="margin">Alms,</note> This Act is to be publiſhed at every Quarter-Seſſions, at every Leet, and every Term in open Hall in the Inns of Court and Chancery by the perſons ap<g ref="char:EOLhyphen"/>pointed thereto.</p>
+               <p n="9">9.<note place="margin">Members of the Com. Houſe, Barons and</note> Every Member of the Commons Houſe is to take this Oath before he ſit in Parliament, before the Lord Steward, or his Deputy.</p>
+               <p n="10">10.<note place="margin">Peers,</note> None of, or above the Degree of a Baron is compellable to take this Oath; but a Peer offending herein, is only Triable by his Peers.</p>
+               <p n="11">11.<note place="margin">Second tender of the Oath,</note> No Papiſt is compellable to take this Oath up<g ref="char:EOLhyphen"/>on ſecond tender, or be in danger (by refuſal thereof) to incur High Treaſon, but only Clergy-men, Officers of Eccleſiaſtical Courts, ſuch as ſhall not obſerve the Rites of the Church of <hi>England, &amp;c.</hi> or do ſay or hear private Maſs.<note place="margin">Maſs,</note>
+               </p>
+            </div>
+            <div type="part">
+               <p n="1">1.<note place="margin">13 Eliz. <hi>cap.</hi> 1. <hi>Bulls from</hi> Rome,</note> By this Statute, All that obtain or put inture any Bull of Abſolution or Reconciliation from the Church of <hi>Rome,</hi> or Abſolve, or be Abſolved there<g ref="char:EOLhyphen"/>by, both they and their Acceſſaries before the Fact, ſhall be adjudged Guilty of High Treaſon to the Queen and the Realm.</p>
+               <p n="2">2.<note place="margin">Comforters, Maintainers, Concealers,</note> Their Comforters and Maintainers ſhall incur a <hi>Praemunire;</hi> and their Concealers miſpriſion of Trea<g ref="char:EOLhyphen"/>ſon, unleſs within ſix weeks they diſcover them to ſome Privy Counſellor, <hi>&amp;c.</hi>
+               </p>
+               <p n="3">3.<note place="margin">
+                     <hi>Agnus Dei,</hi> Croſſes, &amp;c.</note> If any bring into the <hi>Queens</hi> Dominion any <hi>Ag<g ref="char:EOLhyphen"/>nus Dei,</hi> Croſſes, Pictures, Beads, or any ſuch vain and ſuperſtitious thing, or deliver or offer the ſame to any perſon to be uſed; the perſon ſo doing, and the perſon receiving the ſame, ſhall incur <hi>Praemunire;</hi> but if the Perſon to whom the tender is made, appre<g ref="char:EOLhyphen"/>hend the Perſon tendring it, and bring him before a Juſtice of Peace; or being unable ſo to do, ſhall with<g ref="char:EOLhyphen"/>in three dayes diſcloſe his Name, and Aboad, or reſort unto the Ordinary, or ſome Juſtice of Peace within
+<pb n="5" facs="tcp:96325:4"/>the ſame County; or having received the ſame, do within three dayes deliver it to ſome Juſtice of Peace, he ſhall incur no prejudice by this Act.</p>
+               <p n="4">4.<note place="margin">Juſtices of the peace, Privy Council,</note> The Juſtice of Peace ſhall diſcloſe the Offences aforeſaid to the Privy Counſel within fourteen dayes after notice to him, upon pain of <hi>Praemunire.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <p n="1">1.<note place="margin">
+                     <hi>23 Eliz.</hi> cap. <hi>1.</hi> Withdrawing the Subj. from their obedience.</note> By this Statute, it is High Treaſon to have, or pretend to have power, or to put in practice, to Abſolve, Perſwade, or withdraw any Perſon within the <hi>Queens</hi> Dominions, from their natural Obedience to the <hi>Queen</hi> and her Succeſſors, or to withdraw them for the intent from the Religion now Eſtabliſhed, to the <hi>Romiſh</hi> Religion; and they alſo, who ſhall be ſo withdrawn willingly, together with their Procurers and Counſellors, ſhall be guilty of the ſame Of<g ref="char:EOLhyphen"/>fence.</p>
+               <p n="2">2.<note place="margin">Aiders and Maintainere,</note> Their Aiders and Maintainers, who diſcover them not within Ten dayes to ſome Juſtice of Peace, or higher Officer, ſhall be adjudged guilty of Miſpriſi<g ref="char:EOLhyphen"/>on of Treaſon.</p>
+               <p n="3">3.<note place="margin">Saying Maſs,</note> None ſhall Say or Sing Maſs on pain of Two hundred Marks, and ſuffer one years impriſonment, and not be Enlarged till the Fine be paid. And none ſhall hear Maſs on pain of a years impriſonment, and an hundred Marks.<note place="margin">Hearing Maſs,</note>
+               </p>
+               <p n="4">4.<note place="margin">Forfeitures,</note> There ſhall be a third part of theſe Forfeitures to the <hi>Queen,</hi> a Third part to the Poor of the Pariſh where the Offence is committed, and a Third part to the Proſecutor.</p>
+               <p n="5">5.<note place="margin">Covenous Grants.</note> All covenous Grants to avoid the <hi>Queens</hi> Inte<g ref="char:EOLhyphen"/>reſt, or other perſons that may claim by this Act, or 13 <hi>Eliz. cap.</hi> 2. ſhall be adjudged void.</p>
+            </div>
+            <div type="part">
+               <p n="1">1.<note place="margin">27 Eliz. cap. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> By this Statute all Jeſuits, Seminary Prieſts, or a<g ref="char:EOLhyphen"/>ny Eccleſiaſtical perſons born within the Queens Do<g ref="char:EOLhyphen"/>minions, and Ordained or made ſuch, by the preten<g ref="char:EOLhyphen"/>ded Juriſdiction of the See of <hi>Rome,</hi> which come into,
+<pb n="6" facs="tcp:96325:5"/>or remain in any of the ſaid Queens Dominions, ſhall be adjudged guilty of High Treaſon, and their Recei<g ref="char:EOLhyphen"/>vers, Aiders, and Maintainers (knowing them to be ſuch, and at liberty) ſhall be adjudged Felons, with<g ref="char:EOLhyphen"/>out benefit of Clergy.</p>
+               <p n="2">2.<note place="margin">Perſons brought up in <hi>Semina<g ref="char:EOLhyphen"/>ries</hi> beyond Sea.</note> All others brought up in Seminaries beyond Sea, and not as yet in Orders as aforeſaid, which do not within ſix moneths after Proclamation made in <hi>London</hi> (in that behalf) return into this Realm; and within two dayes after their Return, before the Bi<g ref="char:EOLhyphen"/>ſhop of the Dioceſs, or Two Juſtices of the Peace of the County where they Arrive, ſubmit themſelves to the Queen, and her Laws, and Take the Oath of Su<g ref="char:EOLhyphen"/>premacy, they ſhall be adjudged guilty of High Trea<g ref="char:EOLhyphen"/>ſon.</p>
+               <p n="3">3.<note place="margin">Sending relief to ſuch <hi>Semi<g ref="char:EOLhyphen"/>naries.</hi>
+                  </note> They who give or ſend Relief to any ſuch Eccle<g ref="char:EOLhyphen"/>ſiaſtical Perſon or Seminary, or to any brought up there as aforeſaid, ſhall incur a <hi>Praemunire.</hi>
+               </p>
+               <p n="4">4.<note place="margin">Where the Of<g ref="char:EOLhyphen"/>fences are pu<g ref="char:EOLhyphen"/>niſhable.</note> Theſe Offences are to be heard and determined in the Kings Bench, or in the County where they ſhall be committed, or the Offender Taken.</p>
+               <p n="5">5.<note place="margin">Submiſſion.</note> This Act not to Extend to any Jeſuite, <hi>&amp;c.</hi> as aforeſaid, who within three days after his Arrival ſhall ſubmit himſelf to ſome Arch-Biſhop, or Juſtice of Peace of the County where he Lands, and there takes the Oath of Supremacy; and under his Hand acknow<g ref="char:EOLhyphen"/>ledges to continue in obedience to her Majeſties Laws.</p>
+               <p n="6">6.<note place="margin">The penalty of Knowing a Je<g ref="char:EOLhyphen"/>ſuite or Prieſt and concealing him.</note> He that knows a Jeſuit, or Prieſt, to remain within any the <hi>Queens</hi> Dominions, and doth not with<g ref="char:EOLhyphen"/>in Twelve days diſcover the ſame to ſome Juſtice of the Peace, ſhall be Fined, and ſuffer Impriſonment du<g ref="char:EOLhyphen"/>ring pleaſure; and the Juſtice of Peace that doth not within Twenty eight dayes after, diſeloſe it to ſome of the Privy Council, <hi>&amp;c.</hi> ſhall Forfeit two hundred Marks.</p>
+               <pb n="7" facs="tcp:96325:5"/>
+               <p n="7">7.<note place="margin">Oaths, Submiſ<g ref="char:EOLhyphen"/>ſions, &amp;c. to be certified.</note> All Oaths and Submiſſions, <hi>&amp;c.</hi> as aforeſaid, ſhall be certified into <hi>Chancery,</hi> by the party before whom they are taken, within three moneths, on pain of an hundred pounds.</p>
+               <p n="8">8.<note place="margin">Thoſe that ſub<g ref="char:EOLhyphen"/>mit not to come to Court within ten years, or within ten miles of it, <hi>29 Eliz. cap. 6.</hi> Grants of Pa<g ref="char:EOLhyphen"/>piſts.</note> None ſubmitting as aforeſaid, ſhall within Ten years after come within Ten miles of the Court, on pain to looſe the benefit of his Submiſſion.</p>
+            </div>
+            <div type="part">
+               <p n="1">1. By this Statute the Grants and Incumbrances, or limitation to uſes made by Papiſts not coming to Church according to the 23 <hi>Eliz. cap.</hi> 1. and which are revokable by the Offenders, intended for his maintenance, or in conſideration whereof he and his Family are to be kept, ſhall be void againſt the Queen, <hi>&amp;c.</hi> to hinder her for the Forfeiture of their not coming to Church, grſaying, or hearing, or being at Maſs; but this Act is not to Extend to Grants made <hi>Bona Fide,</hi> nor to continue the ſeizure after the death of the Offender, <hi>&amp;c.</hi>
+               </p>
+               <p n="2">2.<note place="margin">Two parts of the Goods, and Third part of the Lands of <hi>Papiſts</hi> to be ſeized.</note> The Queen may ſeize two parts of the Goods, and two Third parts of the Lands of ſuch <hi>Popiſh</hi> Of<g ref="char:EOLhyphen"/>fenders as ſhall not after their Conviction pay into the <hi>Exchequer</hi> Twenty pounds a moneth.</p>
+            </div>
+            <div type="part">
+               <p n="1">1.<note place="margin">
+                     <hi>35 Eliz cap 2. Papiſts</hi> after Conviction to repair to their dwellings.</note> By this Act, all <hi>Popiſh</hi> Recouſants above ſixteen years old, ſhall within forty dayes after their Convi<g ref="char:EOLhyphen"/>ction repair to their uſual Dwelling, and not remove above five miles from thence, on pain to Forfeit all their Goods, and Lands, and Annuities during life; and if they have no certain Aboad, they are to Repair where they were Born, or where, their Fathers and Mothers dwell, and within Twenty dayes after their Arrival there, to give in their Names to the Conſta<g ref="char:EOLhyphen"/>bles, Head-Boroughs, and Miniſter; and the Mini<g ref="char:EOLhyphen"/>ſter is to keep a Book of their names, and he, and the ſaid Conſtables, and Head-Boroughs to certifie the ſame to the quarter Seſſions, <hi>&amp;c.</hi>
+               </p>
+               <pb n="8" facs="tcp:96325:6"/>
+               <p n="2">2.<note place="margin">Copy-holder apiſt.</note> A Copy-holder in this caſe ſhall Forfeit his E<g ref="char:EOLhyphen"/>ſtate for life (if it continue ſo long) to the Lord of the Mannor, (if no Recuſant, Convict, or ſeized, poſſeſſed to the uſe of a Recuſant,) but if ſo, then the <hi>Queen, &amp;c.</hi> ſhall have it.</p>
+               <p n="3">3.<note place="margin">Thoſe that after Conviction wil not repair to their dwellings &amp;c. ſhall abjure the Realm.</note> A <hi>Popiſh</hi> Recuſant (being no <hi>feme Covert,</hi> nor ha<g ref="char:EOLhyphen"/>ving Lands worth <hi>Twenty Marks per annum,</hi> or Goods worth <hi>forty pounds,</hi> which within the time above-limi<g ref="char:EOLhyphen"/>ted, doth not repair to the place of his Aboad, or doth depart above five miles thence, or within three moneths after his Arrival; there doth not make the ſubmiſſion following hereafter (being required ſo to do by the Biſhop, a Juſtice of Peace, or Miniſter there) ſhall before two Juſtices of the Peace, or the Coroner, abjure the Kingdom, which abjuration they are to certifie to the next Aſſizes, or Goal-deli<g ref="char:EOLhyphen"/>very.</p>
+               <p n="4">4.<note place="margin">If he depart not, he ſhall be a Fellon with<g ref="char:EOLhyphen"/>out Clergy.</note> If the Popiſh Recuſant depart not the Realm within the time limited by the Juſtices, or Coroner, or return without the Queens Licence, he ſhall be adjudged a Felon, without benefit of Clergy.</p>
+               <p n="5">5.<note place="margin">
+                     <hi>Jeſuite</hi> reſuſing to anſwer. This Act not to extend to thoſe that are urged by proceſs of Law, &amp;c.</note> A Jeſuite or Prieſt refuſing to anſwer, ſhall be committed to priſon till he anſwer, <hi>&amp;c.</hi> and this Act is not to reſtrain any Recuſant (urged by proceſs of Law without fraud) to Travel without the ſaid limits of five miles, ſo that he return in convenient time, nor ſhall it reſtrain him that is compelled by Law, to ren<g ref="char:EOLhyphen"/>der his body to the Sheriff.</p>
+               <p n="6">6.<note place="margin">The effect of the ſubmiſſion.</note> The Effect of the ſubmiſſion, whereby they may avoid theſe penalties, is, <hi>That the Recuſant ſubmitting, do acknowledge and teſtifie in his Conſcience, that the Bi<g ref="char:EOLhyphen"/>ſhop and See of</hi> Rome <hi>hath not, nor ought to have any power or Authority over her Majeſty, within any of her Dominions,</hi> &amp;c. But the Reader is referred to the Statute to ſee the ſubmiſſion at large.</p>
+               <pb n="9" facs="tcp:96325:6"/>
+               <p n="7">7.<note place="margin">Miniſter of the pariſh is to en<g ref="char:EOLhyphen"/>ter ſubmiſſions is a book.</note> The Miniſter of the Pariſh where the ſubmiſſi<g ref="char:EOLhyphen"/>on is Taken, ſhall preſently Enter it into a Book, and within Ten dayes certifie it to the Biſhop of the Dio<g ref="char:EOLhyphen"/>ceſs; and if the Offenders after ſuch ſubmiſſion ſhall fall to a Relapſe, he ſhall have no benefit of his ſubmiſ<g ref="char:EOLhyphen"/>ſion.</p>
+               <p n="8">8.<note place="margin">Married Wo<g ref="char:EOLhyphen"/>men.</note> Every Married Woman ſhall be bound by this Act, ſave only in the caſe of Abjuration.</p>
+            </div>
+            <div type="part">
+               <p n="1">1.<note place="margin">1 Jac. cap 4.</note> By this Statute, all the former Statutes of Queen <hi>Elizabeth</hi> are confirmed, and appointed to be put in due Execution.</p>
+               <p n="2">2.<note place="margin">The Anceſtor dying a papiſt, the Heir being none, &amp;c.</note> Where the Anceſtor dies a Recuſant, the Heir being none, or confirming himſelf, and Taking the Oath of Supremacy before the Arch-Biſhop, <hi>&amp;c.</hi> he ſhall be Freed from all the penalties in the aforeſaid Statute; but if the Heir after the Age of ſixteen years ſhall continue to be a Recuſant, he ſhall not be freed till Conformity, and taking the ſaid Oath: And the King ſhall have Two parts of his Lands to anſwer the Arrearages of <hi>Twenty pound</hi> a month, according to the Statute of 23 <hi>Eliz. cap.</hi> 1.</p>
+               <p n="3">3.<note place="margin">Children, or thers ſent be<g ref="char:EOLhyphen"/>yond Sea to be trained in Po<g ref="char:EOLhyphen"/>pery.</note> None ſhall ſend any Child, or other perſon un<g ref="char:EOLhyphen"/>der their Government, beyond Sea, to be inſtructed in the Popiſh Religion, upon pain of an <hi>hundred pound,</hi> and they which are ſo ſent, ſhall be uncapa<g ref="char:EOLhyphen"/>ble (as to themſelves only) of any Grant or Inheri<g ref="char:EOLhyphen"/>tance due to them, or others to their uſe.</p>
+               <p n="4">4.<note place="margin">Who may paſs beyond Sea, &amp;c.</note> No Child, or Woman under 21 years of age (ex<g ref="char:EOLhyphen"/>cept Saylors, Ship-boys, Merchants-Factors, or Appren<g ref="char:EOLhyphen"/>tices) ſhall be ſuffered, by officers of Ports to paſs be<g ref="char:EOLhyphen"/>yond Sea without the Kings Licence, or Warrant of ſix privy Counſellors under their Hands, upon pain of the ſaid Officers Forfeiting their Offices, <hi>&amp;c.</hi> and the Forfeitures by this Act are to be divided between the King and the Proſecutors. See the Statute of 3 <hi>Jacobi,</hi> cap. 5. Touching Soldiers and Marriners paſſing be<g ref="char:EOLhyphen"/>yond Sea, <hi>vide infra.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="10" facs="tcp:96325:7"/>
+               <p n="1">1.<note place="margin">3 Jac. cap. 4.</note> By this Act the Recuſant that Conforms, muſt within one year after his <hi>Conformity,</hi>
+                  <note place="margin">Sacrament,</note> and ſo once e<g ref="char:EOLhyphen"/>very year (at leaſt) receive the <hi>Sacrament,</hi> on pain to Forfeit for the firſt offence <hi>twenty pounds,</hi> for the ſe<g ref="char:EOLhyphen"/>cond <hi>forty pounds, &amp;c.</hi>
+               </p>
+               <p n="2">2.<note place="margin">Forfeitures.</note> Theſe Forfeitures to be Recovered before Ju<g ref="char:EOLhyphen"/>ſtices of Peace in their Seſſions, or in any Court of Record; and to be divided between the King and the Profecutors.</p>
+               <p n="3">3.<note place="margin">Preſentments to be of the monthly ab<g ref="char:EOLhyphen"/>ſence of Papiſts from Church.</note> The Church-wardens and Conſtables of every Pariſh, or one of them, or (if there be none ſuch) then the High Conſtable of the Hundred ſhall preſent once every year at the General Seſſions of the Peace, the monthly abſence from Church of every Popiſh Recuſant, and their Children (being above the Age of nine years) and their Servants, together with the age of their Children, as well as they can be known, on pain Reſpectively to Forfeit 20 <hi>s.</hi> for every De<g ref="char:EOLhyphen"/>fault; and this preſentment to be Entred by the Clerk of the Peace, or Town-Clerk, on Record, without Fee, on pain of 40 <hi>s.</hi> for every Default.</p>
+               <p n="4">4.<note place="margin">Officers Pees for preſenting <hi>Recuſants.</hi>
+                  </note> If the Recuſant be convicted upon ſuch Preſent<g ref="char:EOLhyphen"/>ment, the Officer preſenting him, ſhall have 40 <hi>s.</hi> out of the ſaid Recuſants Eſtate, by order of the Juſtices of Peace.</p>
+               <p n="5">5.<note place="margin">Who have pow<g ref="char:EOLhyphen"/>er to puniſh Re<g ref="char:EOLhyphen"/>cuſants.</note> Juſtices of Aſſize, Goal-Delivery, and of the Peace, have power of hearing and determining the Offences of ſuch Popiſh Recuſants, as well for their not Taking the Sacrament, as for not coming to the Church, according to this and former Laws and Statutes; and to make Proclamation that they ſhall Tender themſelves to the Sheriff or Bayliff of the Li<g ref="char:EOLhyphen"/>berty where they are, before the next Aſſize, Goal-Delivery, or Seſſions reſpectively: Which if they ſhall not do, that Default is to be Recorded, and it ſhall be a ſufficient Conviction of them, as well as a Trial by Verdict.</p>
+               <pb n="11" facs="tcp:96325:7"/>
+               <p n="6">6.<note place="margin">Recuſants for<g ref="char:EOLhyphen"/>feitures after firſt conviction for not coming to Church.</note> Every ſuch Offender, after the firſt Conviction for not coming to Church, ſhall pay into the Exche<g ref="char:EOLhyphen"/>quer in the Terms of <hi>Easter</hi> and <hi>Michaelmas</hi> next hapning after their Conviction, their Forfeitures then due at the Rate of 20 <hi>l. per</hi> month, and yearly after that in the ſaid Terms, at the Rate of 20 <hi>l. per</hi> month, unleſs the King ſhall pleaſe to take two Thirds of their Lands and Leaſes, or that they ſhall Conform.</p>
+               <p n="7">7.<note place="margin">Conviction to be certified in<g ref="char:EOLhyphen"/>to the Exche<g ref="char:EOLhyphen"/>quer.</note> Every Conviction is before the End of the Term next following, to be certified into the Exchequer, and the Court is to iſſue proceſs of Seizure thereup<g ref="char:EOLhyphen"/>on, againſt the Offenders Goods, and Two parts of his Lands, Leaſes, <hi>&amp;c.</hi>
+               </p>
+               <p n="8">8.<note place="margin">Twenty pounds a month, or two thirds of Recu<g ref="char:EOLhyphen"/>ſants lands, ex<g ref="char:EOLhyphen"/>cept the Manſi<g ref="char:EOLhyphen"/>on-houſe, &amp;c.</note> The King may Refuſe the <hi>Twenty pounds</hi> a month, and take the Two parts of the Lands, as afore<g ref="char:EOLhyphen"/>ſaid (excepting the Recuſants Manſion-houſe) and the King may not Demiſe thoſe Two parts to a Recuſant, or to any other, for the Recuſants uſe; and the Kings Leſſee of the ſaid Two parts, is to give Security not to commit Waſt.</p>
+               <p n="9">9.<note place="margin">Oath of Allegi<g ref="char:EOLhyphen"/>ance.</note> The Biſhop of the Dioceſs, or Two Juſtices of the Peace, (one being of the <hi>Quorum</hi>) may out of <hi>Seſ<g ref="char:EOLhyphen"/>ſions</hi> Tender the Oath of <hi>Allegiance</hi> mentioned in <hi>haec verba,</hi> in this Act, to which the Reader is Referred, to any perſon, being Eighteen years of Age, [except Noble-men, and Noble-Women] which ſtand Convi<g ref="char:EOLhyphen"/>cted or Indicted of Recuſancy, <hi>&amp;c.</hi> [<hi>or paſſing through the Country,</hi> and Examined on Oath, confeſſeth] or at leaſt denieth not, that he or ſhe is a Recuſant, and the Biſhop or Juſtices are to certifie the Premiſes, and the Name and aboad of the party to the next <hi>Seſſi<g ref="char:EOLhyphen"/>ons,</hi> where the Clerk of the Peace, or Town-Clerk are to Record the ſame: and if they Refuſe to Take the Oath, or to anſwer upon Oath, they are to bind them to the next <hi>Seſſions;</hi> and if they refuſe here to take
+<pb n="12" facs="tcp:96325:8"/>it again,<note place="margin">Premunire, Women Covert.</note> they incur a <hi>Praemunire,</hi> (except Women Co<g ref="char:EOLhyphen"/>vert) who in that caſe are to ſuffer Impriſonment till they take it.</p>
+               <p n="10">10.<note place="margin">Names to be ſubſcribed. Indictment not to be reverſed for want of form.</note> If they take the Oath, they are to ſubſcribe their Names or Marks and no Indictment againſt ſuch as are Recuſants ſhall be reverſed for lack of form, but only by direct Traverſe: But if they conform, they may be admitted to traverſe or diſcharge it.</p>
+               <p n="11">11.<note place="margin">Who ſhall go out of the Realm to ſerve a Forreign Prince. <hi>Bond.</hi>
+                  </note> None ſhall go out of the Realm to ſerve any Forreign Prince or State, without taking the ſaid Oath (of Allegiance) and if he have born Office as a Soldier, he ſhall enter into Bond to the Kings uſe, with condition as in this Act is at large expreſſed <hi>in haec Verba,</hi> (to which the Reader is referred) or elſe to be adjudged a Felon.</p>
+               <p n="12">12.<note place="margin">Cuſtomers and Comptrollers of Ports to take Bonds.</note> The Cuſtomers or Comptrollers of Ports only, and their Deputies, may take ſuch Bonds, and mi<g ref="char:EOLhyphen"/>niſter the ſaid Oath in this caſe, which they are every year to certifie into the Exchequer, the Bond, on pain of Five pounds, and the Oath, on pain of Twen<g ref="char:EOLhyphen"/>ty Shillings.</p>
+               <p n="13">13.<note place="margin">Withdrawing Kings Subjects from their obe<g ref="char:EOLhyphen"/>dienct, <hi>High Treaſon.</hi>
+                  </note> To abſolve or withdraw the Kings Subjects from their Natural Obedience, to reconcile them to the <hi>See</hi> of <hi>Rome,</hi> or to move them to promiſe it, <hi>&amp;c.</hi> or to be abſolved, withdrawn, reconciled, or make promiſe, as aforeſaid, is <hi>high Treaſon.</hi>
+               </p>
+               <p n="14">14.<note place="margin">Reconciliation.</note> This Clauſe of Reconcilement (as to the point of reconcilement only) ſhall not extend to any that ſhall return into the Realm, within ſix weeks after, ſhall before the Biſhop, <hi>&amp;c.</hi> ſubmit himſelf to the King, and his Laws, and take the Oaths of Supre<g ref="char:EOLhyphen"/>macy and Allegiance.</p>
+               <p n="15">15.<note place="margin">Excommuni<g ref="char:EOLhyphen"/>cate Recuſants.</note> The Sheriff, upon a lawful Writ, may juſtifie to break a houſe for taking an Excommunicate Recn<g ref="char:EOLhyphen"/>ſant.</p>
+               <pb n="13" facs="tcp:96325:8"/>
+               <p n="16">16.<note place="margin">Section againſt an Officer for doing his daty, <hi>&amp;c.</hi>
+                  </note> If an Action be brought againſt an Officer for excoution of this Act, he may plead the General Iſſue, and give the ſpecial matter in evidence.</p>
+               <p n="17">17.<note place="margin">Wives Offence.</note> None ſhall be puniſhed for his Wives offence, nor ſhall a married Woman be chargeable with any penalty or forfeiture by force of this Act.</p>
+               <p n="18">18.<note place="margin">Oath of Allegi<g ref="char:EOLhyphen"/>ance. Noble Men, and Noble women.</note> Six of the Privy Counſel (whereof the Chan<g ref="char:EOLhyphen"/>cellor, Treaſurer, or Principal Secretary to be one) may miniſter the Oath of Allegiance to any Noble Man, or Noble Woman (unmarried) of, or above eighteen years of age, and if they refuſe it, they in<g ref="char:EOLhyphen"/>cur a <hi>Praemunire.</hi>
+               </p>
+               <p n="19">19.<note place="margin">Warden of Cinque Ports.</note> The Warden of the Cinque-Ports, or ſome by his appointmeut, ſhall take the Bond, and miniſter the Oath, aforeſaid, to any perſon paſſing beyond Sea out of them, <hi>i.e.</hi> the Cinque-Ports, or any of their Members.</p>
+            </div>
+            <div type="part">
+               <p>
+                  <note place="margin">3 Jac. cap. 5.</note>By this Statute, he that within three days notice, diſcovers to a Juſtice of Peace, any that entertains a Popiſh Prieſt, or any that have heard or ſaid Maſs,<note place="margin">Entertaining a <hi>Popiſh Prieſt.</hi> Maſs.</note> ſhall have a third part of the forfeiture due for the ſaid offences, if the whole exceed not an hundred and fifty, then onely Fifty Pounds thereof to be paid him by the Sheriff, who ſhall levy the ſame.</p>
+               <p n="2">2.<note place="margin">Convicted Re<g ref="char:EOLhyphen"/>cuſants not to come to Court on pain of an <hi>100 l.</hi>
+                  </note> No Convicted Recuſant ſhall come into Court without command from the King, or Warrant from the Privy Counſel, under their hands, on pain of an Hundred Pounds, one moiety to the King, the other to the Diſcoverer.</p>
+               <p n="3">3.<note place="margin">Convict Recu<g ref="char:EOLhyphen"/>ſants not to be in <hi>London,</hi> or ten miles of it, unleſs he be a Tradeſman, on pain of <hi>100 l.</hi>
+                  </note> A Popiſh Recuſant, Convict, or Indicted for not coming to Church for three months together, and remaining in <hi>London,</hi> or within ten miles diſtance, ſhall within ten days after ſuch Gonviction or In<g ref="char:EOLhyphen"/>dictment depart thence, and ſhall deliver their names (if in <hi>London</hi>) to the Lord Mayor there, and (if in the Countrey) to the next Juſtice of the Peace,
+<pb n="14" facs="tcp:96325:9"/>on pain of an Hundred Pounds, to be divided between the King and the Proſecutor; but this is not to ex<g ref="char:EOLhyphen"/>tend to Tradeſmen that have no other habitation in or within ten miles of <hi>London.</hi>
+               </p>
+               <p n="4">4.<note place="margin">Licence muſt be procured by a <hi>Recuſant,</hi> to go about his oc<g ref="char:EOLhyphen"/>caſions, <hi>&amp;c.</hi>
+                  </note> A Recuſant may go about his own occaſions, by Licence from the King, or three Privy Counſellors under their hands, or four Juſtices of Peace under their Hands and Seals, with the aſſent in writing of the Biſhop, Lieutenant, or Deputy Lieutenant of the ſame County, notwithſtanding the Statute of 35 <hi>Eliz. cap.</hi> 2. which Licence is not to be granted by the ſaid Juſtices, till the party make Oath of the true reaſon of his Journey, and that he will make no need<g ref="char:EOLhyphen"/>leſs ſtay.</p>
+               <p n="5">5.<note place="margin">No Convict <hi>Recuſant</hi> may practice Law, Phyſick, <hi>&amp;c.</hi> or bear Office in any <hi>Caſtle,</hi> &amp;c.</note> No Covicted Recuſant ſhall practice the Com<g ref="char:EOLhyphen"/>mon Law, Civil Law, Phyſick, or the Art of the Apothecary; or be an Officer in any Court; or bear any Office among Soldiers, or in a Ship, Caſtle, or Fortreſs, on pain of an Hundred Pound, to be divi<g ref="char:EOLhyphen"/>ded between the King and the Proſecutor.</p>
+               <p n="6">6.<note place="margin">
+                     <hi>Popiſh Re<g ref="char:EOLhyphen"/>cuſant</hi> Convict. or whoſe Wife is ſuch, may not bear Office, <hi>&amp;c.</hi>
+                  </note> No Popiſh Recuſant Convict, or whoſe Wife is a Popiſh Recuſant Convict, ſhall exerciſe any publick Office in the Common-wealth by himſelf, or his De<g ref="char:EOLhyphen"/>puty, unleſs he bring up his Children in the true Reli<g ref="char:EOLhyphen"/>gion; and together with his Children and Servants, repair to the Church, and receive the Sacraments, as the Law requires.</p>
+               <p n="7">7.<note place="margin">What a married woman, being a <hi>Recuſant</hi> Con<g ref="char:EOLhyphen"/>vict, ſhall for<g ref="char:EOLhyphen"/>feit.</note> A married Woman, being a Popiſh Recuſant Convict, (her Husband being none) that doth not conform her ſelf, as aforeſaid, by the ſpace of one whole year before her Husbands death, ſhall forfeit two Thirds of her Dower or Joynter, and ſhall be uncapable of being Executrix or Adminiſtratrix to her Husband, or enjoying any part of his Goods.</p>
+               <p n="8">8.<note place="margin">A <hi>Popiſh Recu<g ref="char:EOLhyphen"/>ſant</hi> Convict, ſhall be an Ex<g ref="char:EOLhyphen"/>communicate to all intents, till he conform.</note> A Popiſh Recuſant, after Conviction, ſhall be (to all intents) reputed as a perſon Excommunicate,
+<pb n="15" facs="tcp:96325:9"/>untill he conform and take the Oath of Obedience or Allegiance, ordained by 3 <hi>Jac.</hi> 4. Yet he may ſue for his Intereſt, in Lands not ſeized into the Kings hands.</p>
+               <p n="9">9.<note place="margin">
+                     <hi>Popiſh Re<g ref="char:EOLhyphen"/>cuſant</hi> Convict muſt be married, by a lawful Mi<g ref="char:EOLhyphen"/>niſter, in open Church, on pain of <hi>100</hi> l.</note> A Popiſh Recuſant Convict, married otherwiſe then in open Church, by a lawful Miniſter, according to the Church of <hi>England,</hi> ſhall not be Tenant by the Courteſie. A Woman alſo) in this caſe) ſhall loſe her Dower, Joynture, Widdows Eſtate, and all her Hus<g ref="char:EOLhyphen"/>bands Goods, and where a Man cannot be Tenant by the Courteſie, he ſhall forfeit an Hundred Pounds, to be divided between the King and the Proſecutor.</p>
+               <p n="10">10.<note place="margin">Their Children to be Baptized by a lawful Mi<g ref="char:EOLhyphen"/>niſter, on pain of an <hi>100 l.</hi>
+                  </note> Every Popiſh Recuſant, within a Month after the Birth of his Child, ſhall cauſe it to be Baptized by a lawful Miniſter, on pain of an Hundred Pounds, if he out-live the Month, if not, his Wife is to pay the forfeiture; the King to have one third part, the Proſecutor another, and the Poor of the Pariſh the third.</p>
+               <p n="11">11.<note place="margin">They muſt be Buried in the Church, or in the Church-yard on pain of <hi>20 l.</hi>
+                  </note> Every Popiſh Reeuſant is to be Buried in the Church, or Church-Yard, according to the Church Laws of this Realm, on pain that his Executor, Ad<g ref="char:EOLhyphen"/>miniſtrator, or the party that cauſes him to be other<g ref="char:EOLhyphen"/>wiſe buried, pay Twenty Pounds to be divided as next aforeſaid.</p>
+               <p n="12">12.<note place="margin">Who may go be<g ref="char:EOLhyphen"/>yond Sea, and upon what Li<g ref="char:EOLhyphen"/>cence, <hi>&amp;c.</hi>
+                  </note> A Child (being no Soldier, Mariner, Mer<g ref="char:EOLhyphen"/>chant, or Apprentice, or Factor to a Merchant) ſhall not be ſent, or go beyond Sea, without the Kings Licence, or Six of the Privy Council, (the Princi<g ref="char:EOLhyphen"/>pal Secretary being one) on pain thereby to be inca<g ref="char:EOLhyphen"/>pable to enjoy any Lands or Goods, by Deſcent or Grant, until (being eighteen years of Age, or above) he take the Oath of Obedience before ſome Juſtice of Peace of the County, where his Parents do or did dwell. And in the mean time the next of Kin, be<g ref="char:EOLhyphen"/>ing no Papiſt) ſhall injoy his Lands and Goods, but
+<pb n="16" facs="tcp:96325:10"/>ſhall be accomptable to the other in caſe he after<g ref="char:EOLhyphen"/>wards conform as aforeſaid; and he that goes out of the Realm ſhall forfeit an Hundred pounds to be divi<g ref="char:EOLhyphen"/>ded as aforeſaid.</p>
+               <p n="13">13.<note place="margin">Chancellor, <hi>&amp;c.</hi>
+                     <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>th Univer<g ref="char:EOLhyphen"/>ſities, ſhall pre<g ref="char:EOLhyphen"/>ſent to the Be<g ref="char:EOLhyphen"/>nifice of a Recu<g ref="char:EOLhyphen"/>ſant Convict.</note> A <hi>Popiſh Recuſant</hi> Convict, ſhall be diſabled to preſent to a <hi>Benefice,</hi> but in his ſtead the Chancellor and Schollars of the Univerſities of <hi>Cambridge</hi> and <hi>Oxford</hi> ſhall preſent within ſeveral Counties reſpe<g ref="char:EOLhyphen"/>ctively, <hi>as by this Act is at large ſet forth.</hi>
+               </p>
+               <p n="14">14.<note place="margin">Convict. <hi>Papiſt</hi> may not be Ex<g ref="char:EOLhyphen"/>ecutor, <hi>&amp;c.</hi>
+                  </note> A <hi>Popiſh Recuſant</hi> Convict, ſhall not be an Ex<g ref="char:EOLhyphen"/>ecutor, Adminiſtrator, or Guardian.</p>
+               <p n="15">15.<note place="margin">None may bring from beyond Sea, or print, or jell <hi>Popiſh</hi> Books, <hi>&amp;c.</hi>
+                  </note> None ſhall <hi>bring from beyond Sea, Print, Sell,</hi> or <hi>Buy any</hi> Popiſh <hi>Primmers, Ladies Pſaltars, Manuals, Roſaries, Portals, Legends, or Lives of Saints in what Language ſoever they ſhall be Printed or Written,</hi> nor any <hi>Superſtitious Books</hi> written in the <hi>Engliſh Tongue,</hi> on pain to Forfeit <hi>forty ſhillings</hi> for every ſuch Book, to be divided as aforeſaid.</p>
+               <p n="16">16.<note place="margin">Power to ſearch convict Papiſts Lodgings for Popiſh Books and Reliques.</note> Two Juſtices of Peace, and all Mayors, Bay<g ref="char:EOLhyphen"/>liffs, and Head-Officers have power to <hi>ſearch</hi> the <hi>Hou<g ref="char:EOLhyphen"/>ſes and Lodgings of Popiſh Recuſants Convict,</hi> and of every perſon <hi>whoſe Wife is a Popiſh Recuſant Convict, for Popiſh Books and Reliques,</hi> and to <hi>burn</hi> and <hi>deface</hi> ſuch as they ſhall find in their cuſtody; but ſuch as are of <hi>value,</hi> in open Seſſions, and afterwards reſtored to the Owner.</p>
+               <p n="17">17.<note place="margin">The Armour of Recuſants con<g ref="char:EOLhyphen"/>vict to be ſecu<g ref="char:EOLhyphen"/>red; and thoſe that refuſe to deliver them to be puniſhed, <hi>&amp;c.</hi>
+                  </note> All the <hi>Armour, Gunpowder,</hi> and <hi>Ammunition</hi> of a <hi>Popiſh Recuſant</hi> Convict, ſhall be taken from him, by Warrant from four Juſtices of the Peace at the Gene<g ref="char:EOLhyphen"/>ral Seſſions, (other then ſuch Weapons as ſhall be al<g ref="char:EOLhyphen"/>lowed him by the ſaid Juſtices <hi>for defence of his Houſe againſt Thieves, &amp;c.</hi>) which Armour, <hi>&amp;c.</hi> ſhall be kept at the coſts of ſuch Recuſant, in ſuch places as the ſaid Juſtices ſhall appoint, and ſhewed at every Muſter, as his Arms, together with his Horſe, which he ſhall buy, provide, and maintain for that purpoſe, ac<g ref="char:EOLhyphen"/>cording
+<pb n="17" facs="tcp:96325:10"/>to his ability, as other Subjects do; and the Recuſant that refuſeth to declare what Armour and Ammunition he hath, and deliver it to ſuch Perſons as ſhall have power to ſeize it, he ſhall Forfeit the ſame to the King; and by Warrant from any Juſtice of the Peace of that County, be impriſoned for three months without Bayl.</p>
+            </div>
+            <div type="part">
+               <p n="1">1.<note place="margin">
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Jac. cap. 6.</hi> Oath of Allegi<g ref="char:EOLhyphen"/>ence.</note> By this Statute is ſet forth, who ſhall give, and who ſhall take the <hi>Oath of Allegiance,</hi> and within what time, and before whom a Baron or Baroneſs, of, or a<g ref="char:EOLhyphen"/>bout eighteen years old, ſhall take it. <hi>See the Statute at large.</hi>
+               </p>
+               <p n="2">2.<note place="margin">Barons and Baroneſſes con<g ref="char:EOLhyphen"/>victed of Recu<g ref="char:EOLhyphen"/>ſancy, who may tender this Oath to them. Who to a com<g ref="char:EOLhyphen"/>mon perſon.</note> If a Baron or Baroneſs ſtand preſented, indi<g ref="char:EOLhyphen"/>cted, or convicted of Recuſancy, three of the Pri<g ref="char:EOLhyphen"/>vy Council, (whereof the Lord Chancellor, Treaſu<g ref="char:EOLhyphen"/>rer, Privy-Seal, or Principal Secretary to be one, ſhall Miniſter to them the ſaid Oath, but if it be a Convi<g ref="char:EOLhyphen"/>cted Perſon under thoſe degrees; or if the Miniſter, petty Conſtables, or Church-wardens of any Pariſh, or any two of them ſhall complain to any Juſtice of the Peace, or any perſon ſuſpected of Recuſancy, then the ſaid Juſtice may in either of the ſaid Caſes mini<g ref="char:EOLhyphen"/>ſter the ſaid Oath, and upon refuſal, commit the party to <hi>Priſon,</hi> there to remain until the next Aſſi<g ref="char:EOLhyphen"/>zes or Seſſions, where if he or ſhe again refuſe to take it, they ſhall incur a <hi>Praemunire,</hi> (except Women Covert,<note place="margin">Praemunire.</note> who ſhall only be impriſoned in this Caſe) and there remain without Bayl, until they Take the ſaid <hi>Oath.</hi>
+               </p>
+               <p n="3">3.<note place="margin">The penalty of refuſing the Oath, Lawyers, <hi>&amp;c.</hi> refuſing it.</note> None refuſing the ſaid Oath, ſhall be capable of any <hi>Office of Judicature,</hi> or other <hi>Office</hi> (being no Of<g ref="char:EOLhyphen"/>fice of Inheritance, or Miniſterial Function) or to <hi>practiſe the Common Law, Phyſick, Chyrurgery,</hi> the <hi>Art of Apothecary,</hi> or any <hi>Liberal Science for Gain.</hi>
+               </p>
+               <p n="4">4.<note place="margin">A Married Wo<g ref="char:EOLhyphen"/>man convicted of Recuſancy, her penalty.</note> If a Married Woman be a convicted <hi>Recuſant,</hi> and do not conform within Three Months after Con<g ref="char:EOLhyphen"/>viction.
+<pb n="18" facs="tcp:96325:11"/>ſhe ſhall be committed to priſon, by a Privy-Counſellor, or the Biſhop of the Dioceſs if ſhe be a Barroneſs, but if a lower Degree, then ſhe ſhall be committed by Two Juſtices of the Peace (whereof one of the <hi>Quorum</hi>) and there remain until ſhe Con<g ref="char:EOLhyphen"/>form, <hi>unleſs the Husband ſhall pay to the King for his Wives Offence Ten pounds for every month, or yeild a third part of all his Lands, at the choice of ſuch Huſ<g ref="char:EOLhyphen"/>bands.</hi>
+               </p>
+               <p n="5">5.<note place="margin">The penalty of going beyond Sea, or ſending any thither to be trained in Popery, or ſend<g ref="char:EOLhyphen"/>ing relief to them.</note> None ſhall go himſelf, or ſend any other perſon whatſoever beyond Sea, to be Trained up in <hi>Popery,</hi> nor give any Maintenance or Relief to the Party ſo ſent, or to any School, or Religious Houſe there, (on pain after Conviction thereof) to be made unable to proſecute any Suit in any <hi>Court of Equity,</hi> to be <hi>Com<g ref="char:EOLhyphen"/>mitted</hi> of any <hi>Ward, Executor,</hi> or <hi>Adminiſtrator,</hi> and to be <hi>uncapable</hi> of any <hi>Legacy,</hi> or <hi>Deed of Gift,</hi> or <hi>bear<g ref="char:EOLhyphen"/>ing Office</hi> within this Realm. And beſides, to <hi>forfeit all his Goods and Chattels, and his Lands alſo, during life;</hi> but if he or ſhe conform within ſix weeks after his or her Return, according to the Statutes of this Realm, they ſhall not incur the ſaid Penalties.</p>
+            </div>
+            <div type="part">
+               <p n="1">1.<note place="margin">3 Car. 1. cap 2.</note> By this Statute, the Statute of 1 <hi>Jac. cap.</hi> 2. is to be put in due Execution.</p>
+               <p n="2">2.<note place="margin">The like penal<g ref="char:EOLhyphen"/>ty as in the next preceding Statute for ſending or go<g ref="char:EOLhyphen"/>ing beyond Sea to be t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ained in Popery, <hi>&amp;c.</hi>
+                  </note> None of the Kings Subjects ſhall <hi>paſs,</hi> or <hi>go,</hi> or ſhall <hi>convey</hi> or <hi>ſend,</hi> or <hi>cauſe to be conveyed or ſent, any Children, or other perſon,</hi> out of any of the <hi>Kings Do<g ref="char:EOLhyphen"/>minions,</hi> into any parts beyond the Seas, out of the Kings Obedience, to the intent to be Reſident and Trained up in any <hi>Popiſh Society, School,</hi> or <hi>Family,</hi> or <hi>inſtructed in the Popiſh Religion, in a ſort to profeſs the ſame:</hi> Neither ſhall any convey, or cauſe to be con<g ref="char:EOLhyphen"/>veyed <hi>any money,</hi> or other thing, towards the Mainte<g ref="char:EOLhyphen"/>nance of any ſuch Children, or Perſon already gone or ſent, or to go, or to be Sent and Trained, and In<g ref="char:EOLhyphen"/>ſtructed as aforeſaid, or (under the name of <hi>Charity</hi>
+                  <pb n="19" facs="tcp:96325:11"/>towards the <hi>relief</hi> of any ſuch Society, or Religious Houſe, on pain, after Conviction, in the aforeſaid Ca<g ref="char:EOLhyphen"/>ſes, to be diſabled to ſue, or uſe any Action, Bill, Plaint, or Information in Law, or Proſecute any Suit in Equity, <hi>&amp;c. As in the next Precedent Statute here ab<g ref="char:EOLhyphen"/>ſtracted and abridged.</hi>
+               </p>
+               <p>All Perſons that ſhall bear any Office, Civil or Mi<g ref="char:EOLhyphen"/>litary,<note place="margin">25 Carol. 2.</note> or Receive any Pay, Sallary, Fee, or Wages, by reaſon of any Patent or Grant from his Majeſty, or ſhall have Command or Place of Truſt, from or under his Majeſty, or from any of his Predeceſſors, or by his or their Authority, or by Authority derived from him or them, or ſhall be of the Houſhold, or in the Ser<g ref="char:EOLhyphen"/>vice or Employment of his Majeſty, or the Duke of <hi>York,</hi> who ſhall Inhabit, Reſide, or be in, or within Thirty miles of <hi>London,</hi> or <hi>Weſtminster,</hi> at any time during <hi>Easter</hi> Term, 1673. ſhall before the end of that Term, or <hi>Trinity</hi> Term following, appear in the Court of <hi>Chancery,</hi> or <hi>Kings Bench,</hi> and there in open Court, between Nine and Twelve in the Fore-noon, Take the Oaths of Supremacy and Allegiance; and all the ſaid Perſons not having Taken the ſaid Oaths in the ſaid Courts, ſhall on or before <hi>August</hi> 1. 1673. at the Quarter Seſſions for that County or Place where he or they ſhall Be, Inhabit, or Reſide, on <hi>May</hi> 20. Take the ſaid Oaths in like manner.</p>
+               <p>And the ſaid Officers ſhall Receive the Sacrament of the Lords Supper, according to the Uſage of the Church of <hi>England,</hi> at or before <hi>Auguſt</hi> 1. 1673. in ſome Pariſh Church upon ſome Lords Day immedi<g ref="char:EOLhyphen"/>atly after Divine Service and Sermon.</p>
+               <p>All Perſons that ſhall be admitted into any ſuch Of<g ref="char:EOLhyphen"/>fice, <hi>&amp;c.</hi> or ſhall Receive any Pay, <hi>&amp;c.</hi> or have Com<g ref="char:EOLhyphen"/>mand, or be admitted into Service or Employment in the Houſholds, <hi>&amp;c.</hi> after the firſt day of <hi>Easter</hi> Term aforeſaid, and ſhall Inhabit, Be, or Reſide, when ſo ad<g ref="char:EOLhyphen"/>mitted
+<pb n="20" facs="tcp:96325:12"/>in or within Thirty miles of <hi>London</hi> or <hi>Weſt-minſter,</hi> ſhall Take the ſaid Oaths in the ſaid Reſpe<g ref="char:EOLhyphen"/>ctive Courts, in the manner aforeſaid, the next Term after ſuch their Admittance. And all ſuch Perſons to be admitted after the ſaid firſt day of <hi>Easter</hi> Term, not having Taken the Oaths in the Courts aforeſaid, ſhall Take them at the Quarter Seſſions for the Coun<g ref="char:EOLhyphen"/>ty or Place where thay ſhall Reſide next after ſuch ad<g ref="char:EOLhyphen"/>mittance. And all Perſons ſo to be Admitted as a<g ref="char:EOLhyphen"/>foreſaid, ſhall Receive the <hi>Sacrament</hi> of the <hi>Lords Supper</hi> in the manner aforeſaid, within three months after their Admittance.</p>
+               <p>And every of the Perſons in the Court where he takes the Oaths, ſhall firſt deliver a Certificate of ſuch his Receiving the ſaid <hi>Sacrament,</hi> as aforeſaid, under the Hands of the Miniſter and Church-wardens, and ſhall then make proof of the truth thereof by two cre<g ref="char:EOLhyphen"/>dible Witneſſes at the leaſt upon Oath. All which ſhall be Enquired of, and put upon Record in the Re<g ref="char:EOLhyphen"/>ſpective Courts, to take the ſaid <hi>Oaths,</hi> and <hi>Sacra<g ref="char:EOLhyphen"/>ment,</hi> upon penalty that the Offices and Employments of all Perſons neglecting, or refuſing, be, and are Ad<g ref="char:EOLhyphen"/>judged void, and the Perſons <hi>ipſo facto</hi> adjudged un<g ref="char:EOLhyphen"/>capable to have or enjoy the ſame, or any profit there<g ref="char:EOLhyphen"/>to appertaining. And further, if they ſhall Execute the Offices or Employments after the time wherein they ought to have taken them, and being thereupon lawfully convicted, ſhall be diſabled to ſue in Law or Equity, or to be a Guardian, Executor, or Adminiſtra<g ref="char:EOLhyphen"/>tor, or to be capable of any Legacy, or Deed of Gift, or to bear any Office; and ſhall Forfeit 500 <hi>l.</hi> to be Re<g ref="char:EOLhyphen"/>covered by the Proſecutor.</p>
+               <p>Perſons not Bred up by their Parents in the Popiſh Religion, and profeſſing themſelves to be Popiſh Re<g ref="char:EOLhyphen"/>cuſants, that ſhall Breed up, or ſuffer their Children to be Educated in the Popiſh Religion, upon convicti<g ref="char:EOLhyphen"/>on
+<pb n="21" facs="tcp:96325:12"/>ſhall be diſabled to bear any Office, or Place of Truſt or Profit, and the ſaid Children likewiſe diſa<g ref="char:EOLhyphen"/>bled, till they ſhall be Reconciled, and Converted to the Church of <hi>England, &amp;c.</hi>
+               </p>
+               <p>At the ſame time the Perſons concerned ſhall Take the ſaid Oaths, they ſhall make and ſubſcribe a Decla<g ref="char:EOLhyphen"/>ration (in the Act ſpecified againſt Tranſubſtantiati<g ref="char:EOLhyphen"/>on) under the ſame Penalties and Forfeitures.</p>
+               <p>Proviſoes for the <hi>Peerage,</hi> and other priviledges and profits of <hi>Peers;</hi> for Penſions granted upon valu<g ref="char:EOLhyphen"/>able conſiderations; for Eſtates of Inheritance gran<g ref="char:EOLhyphen"/>ted, for Penſions granted to perſons Inſtrumental in the Kings preſervation after the Battle at <hi>Worceſter;</hi> for Offices of Inheritance, for Infants, Feme-coverts; per<g ref="char:EOLhyphen"/>ſons bevond Sea, and <hi>Non compus Mentis,</hi> for Conſta<g ref="char:EOLhyphen"/>bles, and ſuch Inferior Officers.</p>
+            </div>
+            <div type="conclusion">
+               <p>This is the Sum and Subſtance of all the Statute-Laws against <hi>Jeſuits, Prieſts,</hi> and <hi>Popiſh Recuſants;</hi> which for the benefit of my Country-men, I have abſtracted out of the large Volume of the Statute-Books, and here brought them to this narrow compaſs; but Read them at large for thy better ſatisfaction. <hi>Farewell.</hi>
+               </p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
